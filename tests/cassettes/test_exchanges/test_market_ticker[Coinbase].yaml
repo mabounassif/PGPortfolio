@@ -1,0 +1,4922 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA91cUW/iOBD+L3luS0Kbbq9viUFQkRAUvFXU0wllS7aKDtI9oNLtne6/n4bQHuU8
+        JjZ265jHOASTTzPfzDcz/vVvp5w7t85Dn5x/nfaIc+Z8y9fF7PFltSqqx5/1knPm/PHyvHl3ef/u
+        ZVnN1uVfhXPruBeu524/b4v5n6+Lvuu6F677tl4/tKweV8WyqDbMrx+s1h/POXPm5frHIv85q/Jl
+        UW+zs9sTbGeZr34vNrPvL9V87dw6HjwPdnJwvevvfmuZr57KalZU+bdFMXduv+eLdXHm/Hheb2bP
+        1eLn25VFuSwPLj3m1WOxeH9ts8rnZfU0m5fr909cb/LNC/z0c7Uoq8J5vTJbFut1/gR/xfnn7BWW
+        NANYWKikGYIKAxRv/6UfgnK9XTgKy/a182Dx6i8fwpJmnXpTAqh4rtGo9JMpgko/mTZHxb3wXK6p
+        NADF49jK3tMPQOknU/tAocPz/teUBQodskDZu7mp//Ku9fmvPh126i0JYHJlNibR3Xh0Xr/+Q1Bg
+        iYnKf3c3dWC/NPZf9YtnweJhpgL77NSbYuAC30SRMRaWjD6ch5TF9Rl9YIGyd3NTUDxXJyoZfejU
+        m2KDgqHimQtKL7hDSKUX3Cmiek8r1feCO5xVfB2kslm9aMUkJBinhEQZp+ijlJBIUMql2ZQyGFMs
+        URmMqUCiwjcU/2RLeff8A2AGY8rJVXBSMdtaesF0iLqw6VAkMObZi39qXLy3+j8PNh1yAuNWxsVJ
+        PEB8WBIPmvswrrk0thZPJltJ4gHHjbU0WSFYBkmJogyye3oGyctWiHUZ5C4CI0IhGDEyBiMWBWFg
+        K+xsBbEVdrZyVG05HRLcVGRylUtzLSVE3Vco5r4O3c+++7rRFxfznBfXRsyWvwbhpLn8tXdz49Dr
+        Sq/8VW9JmFDMBSUepYidxKNUlZ1cnRh47fm1A0ziUcoh+Yt2svzOdxEh50XM817ELlMJA4ooxWFA
+        FQnFlydrkrykPgyojFDsmxt5pf0JEnml/YlZkRfTf6X9iVTkdW0qIAFNYoRQYElV4uhrLD3CPq3L
+        HCNKkOArYlMKFnx5/LxRF6VElIgHX4a3ToB2z8YE0e4lAuKur1W7F4bEN9tMsihGpMgsihVJkdda
+        hfssinEp0r1opxgJETFS5WJ7L7TKxYmHXa3xsHCV69p8fRhrZhGC5DP1YWFQWtBhhIn2qqpb3Ru9
+        EottshekjVg2HygrB99oJRVIHGUTeqONpa6aNDSWvZubGssXBbbiIR2SdNipd/RhkGivoyRTjFPY
+        XasSnKK9a/WDOeUjaluYaq8qcdTO85KyvdHZPNtQImXBl+5sXthODM/me3jbV09h29duSRfT9470
+        fbWy7WsXFhOhuJgYGBhbVlGB2SG2G0Nmhz5FbTk2O2RbEgkaGNJ7z9bAJHrvBVCRqHOBBiZTVfEN
+        rtMH4wDzYbCmil+6ehNJ2Kp9/LJtK2abDNZWjNUhT24r5k6r8NuKuSbTwnkV6G1ho4L0tqCgnNrb
+        8soewr0tcpB4RicubEgiZZ2SNxo7JSPJTkmva66ZBNEgwUr20SBRNNh1egM+j1dgo9bV7KE+zDYW
+        pD4sQSpXrgr/hdaHpXpbzEUE2o3YloK0G0mO1StII9F2I2EruTR+eIitTyLDQ2x9ssGsnc7hIVyg
+        bOdEV0YRO0ky2gpCSTJq25hdlmK9klk6UZTX+3rz+nRi25wKgII0HLFB+ZTZx2Og2CaBRej0UKRs
+        +PFKc31FmOcNr69ESd1ZzEweE7S1WFwB0ztYD1u1TwGD81rYBoOc16LzaBDeJBH3vBbbEkhQ8hFU
+        otiYs9mOKfkoKm3tZh2NMXYZjYkx0TEvZRmNiW3RMblHh+7IPVFGLnqr9+Se2MctIIMho9xEVVPr
+        F71HHAkTi+FjElC4Z6eSSOH+U0rExwr3lomTkEoibJ9OWiG6QCppWwwGZM82FYTsP8lU+GRvmeqy
+        nVJlo4JNqUoUIrunTw4fmVK1DBbo08PO0VFV8OpqrHhBl54MJDcGM30fc1/Ioes6G1s88SkJOHP9
+        Y61EdzgMBS82IkjBS+ZoXF8noUDBS649z+wyJFLxYqNiXE4PqFiW028P90Z0fORwbwlYGh/u7UnI
+        ktvDva1rbEFnikKxmSJOY57e043Ej6IwfBYymWKRF3vyTvIcHW3hMEze2cHzv/0LAKPnyPFmAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      Age:
+      - '0'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a38280eefa0ecfa-YUL
+      Cache-Control:
+      - public, max-age=5, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:53 GMT
+      Etag:
+      - W/"66f1-padK5UB6ObQl8MOWbfnguaGoArM"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=dfe175b790d40332e287d5774d5ffd1741592180753; expires=Wed, 15-Jul-20
+        00:25:53 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f75d4f0000ecfa9a86a200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/ZEC-USDC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAy3MMQ7CMAxG4bv8sxs5Tuw0OQdTF1RohwgQqC0MVNwdBTG+N3w7tmWc5mOdUHKO
+        UQLhsdTzjAJlZxGEtb5bBqfKnCy1t9Vbe8LCHVvn9cBcRIoXp2q9DCCcGtqUZCCM6+VfGYTX/fr8
+        CcHMO+Vovs8Rny9CwFcQkAAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a38280fabd53fb7-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:53 GMT
+      Etag:
+      - W/"90-QmnLGkqpRnZ6xOJAPdwcPb4wCBk"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=db71c8312c2296f7c0852f6bf8e783c4d1592180753; expires=Wed, 15-Jul-20
+        00:25:53 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f75dc800003fb73137f200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/ZRX-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAy3MOw4CIRQF0L3cmiH3AQ+QdVjZmNGZgqjRzMdC494No+0pzhvL1A/jsQ4oPoj4
+        HQ0eUz2PKKD1qjF7GMz11cRJsCklKgyWetuIjh1jJ7oni9PCbJmEPhxgcGrxL1KNMOjnyx+iuDY/
+        79d1i5J3jC5bhqiBJD5f1qSVlJ0AAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      Age:
+      - '1'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a382810cd40ca53-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:54 GMT
+      Etag:
+      - W/"9d-eAXNnl+Nm9+aMYWM5vDbI+fVPkk"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=dc080a5b0c205a2d3cbf62a139276769b1592180754; expires=Wed, 15-Jul-20
+        00:25:54 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f75e780000ca5384286200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/EOS-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAz2MOw7CMBAF7/LqjbW79i7Y56CiQYGksACB8qEAcXeUROJ1o6eZD6ah7fpT7VDE
+        xTVmwnOolx4FGswyCGN9L5hAmOp9fVi5YW/EDsxFrcRd0LyP7kcQzkvtb7fjdSMXEF6P27wmIie3
+        FIS34fsD0biBFYsAAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a3828117f7eca5f-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:54 GMT
+      Etag:
+      - W/"8b-zOihXMqWMFI7AuFhnY0AYUFxja4"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=dd9915235a825644ddb49cbb2ae610c491592180754; expires=Wed, 15-Jul-20
+        00:25:54 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f75eeb0000ca5f322b5200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/ETH-EUR/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAzXMMQ7CMBBE0btMvbF27Kwd+xxUNCiQFBYgUBIoQNwdhYjyS1/vjWXqh/FQB5Rs
+        FnyrgvtUTyMKvJqLhGCur7Xp2kgGnwMES71uj9dGY0PbqRZvhd5Z7qjcQ3Bc3c1JEPTz+Z8dBM/b
+        5fFDqFR1lpmoKeHzBQQm4WmWAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a38281268d0ca57-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:54 GMT
+      Etag:
+      - W/"96-n19M/cJUhMNo/9sGGwz1w8+WXzQ"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d146d62e5837e24c3c27b03deeb29deb11592180754; expires=Wed, 15-Jul-20
+        00:25:54 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f75f7c0000ca5749035200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/LINK-ETH/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA1XMsQ7CMAyE4Xe52Y1sEzshz8HEggrtEAECtYUBxLujVCzc9t/wvbFM/TAe6oAS
+        OUZjwn2qpxEFHFg8ZxDm+mqHecgOwlKvLZWVO/ZObMdc1IptQhIRy3sQjo38GcldQOjn8x/7vF0e
+        qySi25SDKa/D5wtIE4XalwAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - EXPIRED
+      CF-RAY:
+      - 5a3828170d81ecfe-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:55 GMT
+      Etag:
+      - W/"97-pNzQpuSP0AttYEtL6cqCj9UNrzU"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=db0bd50119871158674e859e3f08ce67e1592180755; expires=Wed, 15-Jul-20
+        00:25:55 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f762680000ecfe9ea38200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/XTZ-BTC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA0WMsQ6CMBRF/+XOpbl99LWl3+HkQlAYGjUaQAcN/27KoGc6OcP5YJ2HcerLiJyc
+        D+oNHnM5T8igJSkxJAeDpbxrc9XXcqsuFDYMjdMDmUWz0LYdfRuPMDjV5e8RPAyG5fJPkQkGr/v1
+        uc+cdknEqnIH2xdueyCVmgAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - EXPIRED
+      CF-RAY:
+      - 5a3828180809ecee-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:55 GMT
+      Etag:
+      - W/"9a-6CVZ8s004P8Q9GPS9vm/MBqSTyE"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d74569de6f075fe8a0c90a48e3469034c1592180755; expires=Wed, 15-Jul-20
+        00:25:55 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f763030000ecee8e2cd200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/DAI-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAzXMOw7CMBBF0b282rFmxp+ZeB1UNCiQFBYgUD4UIPaODKK8tzgvrPMwToc6onA0
+        0+hwn+tpQgF7YobDUp8te/MmfVA4rPXajpBQR7njtCMqkkpUz7G3LHs4HJv5Q4gMDsNy/g+TAIfH
+        7bJ9IdZgosGTZk1EhPcHejsLO5gAAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - EXPIRED
+      CF-RAY:
+      - 5a3828191f7cca4f-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:55 GMT
+      Etag:
+      - W/"98-rUNen408hvMr3PiNR9aR8cd5wdg"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d3758e7af9d53ee058123a37beeea4eb91592180755; expires=Wed, 15-Jul-20
+        00:25:55 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f763b10000ca4f44a12200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/BCH-EUR/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAy3MOQ7CMBRF0b282rHe9/Qdr4OKBgWSwgIEykABYu8oFuWRru4H6zyM06mOKI59
+        VE0Gz7leJhQ4oRWFwVLfu2npc9aQBQZrvbeGjh1TJ/FAFpHivNWg3usRBuf92z4xw2BYrn+mna/H
+        bWuTGJxln5NjIL4/KcLBaJQAAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a38281d3968ecf6-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:56 GMT
+      Etag:
+      - W/"94-fN9hsTqrt5sFLxw0IGj99gyTUQg"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=def2062e79940ce79d623fb34f1aeab3e1592180756; expires=Wed, 15-Jul-20
+        00:25:56 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f766470000ecf6103ba200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/GNT-USDC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA02MywrCMBBF/+Wup2FmkoltvqMrN1LbLoKK0tdC8d8lqNC7uhw454Vl6obxlAck
+        UeXQEB5T7kcksGMLFg2EOT8L8SAs+VausnLFsRJrmZOGJOLiwWp/BOFccnu/my9/0NQKwna/rt+O
+        1yDm+De8Px0bhFWSAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a38281e6998ca63-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:56 GMT
+      Etag:
+      - W/"92-37excddLvQPb+mghJujqDroNhsU"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=dd029b5230da7f66187c962dacd16649a1592180756; expires=Wed, 15-Jul-20
+        00:25:56 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f766fd0000ca632b82b200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/DASH-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyXMPQ7CMAwG0Lt8sxs5tvNDzsHUBRXaIQIEagsDFXdHoeNb3oZ1HsbpVEeULCYS
+        Cc+5XiYUJHGaDYSlfprZsWUQ1npvFBbuOHY+HJmLPxRNTn3UYD0I5zbuhYIwLNedpm18P26vf2Li
+        1UWJEjgJvj8D9ulujwAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a38281f5c04ca5b-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:56 GMT
+      Etag:
+      - W/"8f-18vF/6RAANq2KwI9VqYWOa2ETXE"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=db483540ebd2b6f66eef588698ad187a41592180756; expires=Wed, 15-Jul-20
+        00:25:56 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f767970000ca5b49809200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/OMG-EUR/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAy3MOw7CMBBF0b28emK9GRvH8TqoaFBIUliAQEmgALF3lM/tTnO/mMe2H86lR1bz
+        tTaC51i6ARnqfNIIwVQ+q9nQBQjmcl9sNFaMlR6OZFZmq130lnw4QXBZluuDBkE7XXdaguD9uL22
+        SfCkOuUWfn/F4QsdkgAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - EXPIRED
+      CF-RAY:
+      - 5a3828239f27ca57-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:57 GMT
+      Etag:
+      - W/"92-c/hH/e+NRZctREGV+ErmbNp6wGM"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d6a6646c98a85a5ffb2c25ce37a88df8f1592180757; expires=Wed, 15-Jul-20
+        00:25:57 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f76a3f0000ca570abd5200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/ETC-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAy3MOw7CMBCE4btMvbF2vY7j9Tmo0qBAUliAQHlQBHF35Ijun2K+D9Z5GKdzGZGD
+        SlJWwmsu1wkZ0XnzICxlr7PmWh5HsueGYyPtiTn7Ngdz0kkU6UG4VK2+k4EwLLe/JSC8n/ftIERC
+        ZHPBkle1Dt8fdO5JDIsAAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - EXPIRED
+      CF-RAY:
+      - 5a38282498e2ca4f-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:57 GMT
+      Etag:
+      - W/"8b-PoNYjTi/m1M5H5Rq7odBwWwOwFU"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d91b5a1e72eccbcd6d8a3e2449a96c37e1592180757; expires=Wed, 15-Jul-20
+        00:25:57 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f76add0000ca4f632a9200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/DAI-USDC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAzXMOw7CMBBF0b282rFmxvZk4nVQpUGBpLAAgfKhCGLvyCDKe4vzwjoP43QsIzJH
+        7sSiw2Mu5wkZ7IlZBQ5L2evQVGMttxpCQg1pw+lAlCXk0HozSmw9HE5V/AmRIxyG5fIfJgEOz/t1
+        +0KmJEHNd6zcEhHeH7/oY0aWAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a3828269bb5ecfa-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:57 GMT
+      Etag:
+      - W/"96-eQ44fs2J+ZHp18H2TCId61SuIpA"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=decc6a0687ff34f9ac6db974929727e271592180757; expires=Wed, 15-Jul-20
+        00:25:57 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f76c220000ecfa21355200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/ETC-BTC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA03MywrCMBBG4Xf512mYGZPJNM/hqhuptougovTiouK7S1DQ7cfhPLFM/TAeyoBs
+        ahKSw30qpxEZ5IlIk8BhLttHuG3Z0q7aUq7VhIQa0objnihLzMI+1Yw7OBzr+P/Uz+cfRDg8bpf1
+        OzJhb2oxBFK83vlvi1GbAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a382829eadeecfa-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:58 GMT
+      Etag:
+      - W/"9b-BQRfCFkFVY8mnloyQ6pylhUi6fY"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=de73cc7001c12443c793aaee38754da441592180758; expires=Wed, 15-Jul-20
+        00:25:58 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f76e340000ecfa45814200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/BTC-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAz3MMQ7CMAxG4bv8sxu5jp3UOQcTCyq0QwQI1BYGEHdHYWB8b/je2JZxmg91QnHN
+        STIPhPtSTzMKPEYHYa2vVhzYdLAoCsJWr+0JC3ecut52zEWsmAWPIlH3IBwb2xQLbiCM6/nfGYTn
+        7fL4MerKoZekKr3i8wUCiP6ClgAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      Age:
+      - '1'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a38282acefaecfe-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:58 GMT
+      Etag:
+      - W/"96-yZazv0Cl2aO91Ms3MFm1HEiBnyY"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d25058d5151cde9d82ba68733128b35911592180758; expires=Wed, 15-Jul-20
+        00:25:58 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f76ebf0000ecfe99a05200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/ETH-GBP/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAzXMMQ7CMAxG4bv8cxrZIbbsnIOJBRXaIQIEagsDiLujRGJ8b/g+2JZxmo91QmEh
+        MskBj6WeZxSwSdwxAtb6bp2iGDu5KgK2euuPEg2kA8ueqCQpwjEbq+kBAafmdocdAeN6+bMtX/fr
+        syOZSCKz5yye8P0BFXUSmpUAAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a38282b9dcaece6-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:58 GMT
+      Etag:
+      - W/"95-EQEyw/6sWKfnSdTQXDF+fLD7SSo"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d594df565efe5e537ccf7e9e23f186d9e1592180758; expires=Wed, 15-Jul-20
+        00:25:58 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f76f3d0000ece60f970200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/MKR-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAy3MOw7CMBAFwLu82rGe1+zG9jmoaFAgKSxAoHwoQNwdGdFOMW+s8zBOxzqiWNJM
+        h8dczxMKlL037gIclvpqQh+EIRgc1nprIhR2tC7oniyiRcUni4x6gMOprVCajzFlOAzL5R9rtgbP
+        +3X7RSlL9L3lSCHx+QJXDORClwAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a3828302810ecee-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:59 GMT
+      Etag:
+      - W/"97-UyYic6BQ5T9Nql1BHGB941qN+O4"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d828954932f9b0966e9f4f07b07e528331592180759; expires=Wed, 15-Jul-20
+        00:25:59 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7721b0000ecee8e044200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/BTC-USDC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyXMMQ7CMBBE0btM7awmu7Zj+xxUNCiQFBYgUBIoQNwdWSn/K/4X2zJO86lOKMpo
+        Xs3hudTLjIJsnhIVDmv9NKD4nEhagMNW782Uyo6x68OBLBpK8BKp7P0RDuc2RjYLEno4jOt17yQW
+        4fB+3F77JifRIQ5MyfD7AydyNkGXAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - EXPIRED
+      CF-RAY:
+      - 5a3828311ef0ca53-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:59 GMT
+      Etag:
+      - W/"97-MKxMWNUdjyizRiVo2VkgPIzt56Q"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=db928fa90d556e94fcd15439fa6dfb15b1592180759; expires=Wed, 15-Jul-20
+        00:25:59 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f772ae0000ca5353b2a200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/BAT-ETH/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA02MywrCQBAE/6XPk9A7Gff1HZ68SDQ5LCpKHh4U/102INinpgrqjWXqh/FYBmT1
+        Fl0UPKZyHpHBlmTynTMI5vKqzBGCpdzqVyob+sbt9mRWy6qtMcXQHSA41eSvoSFB0M+XPxQheN6v
+        69ay2JkP1WzD5wv2y1fVmQAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a3828330961ca57-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:59 GMT
+      Etag:
+      - W/"99-URFcqkoBbAMnt9YeDh+c3BF1jR4"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d0d9f6d894260930143222537d3738a651592180759; expires=Wed, 15-Jul-20
+        00:25:59 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f773e90000ca57fcabb200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/REP-BTC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA1XMMQ7CMBBE0btM7Viza3Yj+xxUNCiQFBYgUBIoQNwdWdBQzpfmvbDOwzjt64iS
+        tKflgNtcjxMKGElxVwQs9dmKeBR3BKz10rZS2dE7sS1Z1IpI9Gy+sR0CDg39KdZew3L6Zx/X8/0L
+        eU4Sc8raG4n3B8BVpQiXAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a38283678a7ca47-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:00 GMT
+      Etag:
+      - W/"97-Pe15zjFjFuojXscRTjfJbFnkCcw"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=db45d432b2187a172beed3812f150ad4a1592180760; expires=Wed, 15-Jul-20
+        00:26:00 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f776060000ca47a12bc200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/ATOM-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA03MOw7CQAyE4btM7axsxwa856CiQYGkWAEC5UEB4u4oS8N0v0b63pjHrh+OpUd2
+        ay2C8BjLeUCGpq0LCFN5rSm7pCDM5VZPVm5404jvmbN6Nk4uYWoHEE6rVwEQuunypz3v16UK4i1H
+        JOff8PkCvdaEo4wAAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a382837799becfe-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:00 GMT
+      Etag:
+      - W/"8c-YNBipxkq+TxRTHnMEoREtLzGPjw"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d8fcc13d7ee4f95b8941a7681dffc2f4f1592180760; expires=Wed, 15-Jul-20
+        00:26:00 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f776aa0000ecfea494e200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/LTC-GBP/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAy3MOw7CMBCE4btM7Vi763j9OAdVGhRICgsQKAkURNwdraCcX5pvx7aM03xsE2pO
+        JXF2eCztPKMiRM9wWNvbFmfymkhS6BUOW7tZFRLqSDuOB6IqsUrxUUvgMsDhZKw5ZJdxvfxVgcPr
+        fn3+iJ6jVyWWLAWfL0d8nmmSAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - EXPIRED
+      CF-RAY:
+      - 5a382838d8ccca5f-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:00 GMT
+      Etag:
+      - W/"92-9uiaX4AHa7OwN20X4JhP8MHfxes"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d4bfa02ea6925c32723a2dfbf79f908381592180760; expires=Wed, 15-Jul-20
+        00:26:00 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f777840000ca5f412e6200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/BCH-GBP/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAy3MOw7CMBBF0b28emKNx+PvOqjSoEBSWIBA+VAEsXdkoLy3OC+s8zBOxzqiqGaO
+        nvCY63lCgU3ZqAVhqXtrNs6LyxozCGu9tScs3HHorD8wF5sLi3E2sKYehFNjf04CYVgu/4wehOf9
+        un0RF4JJwl4lJrw/WRF/hZMAAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a38283d3ae0ecfa-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:01 GMT
+      Etag:
+      - W/"93-uRQ9T3I0z0cnh6quA8aQbcIKXTo"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d4f910328c99510dfa9ddd16e8369570c1592180761; expires=Wed, 15-Jul-20
+        00:26:01 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f77a400000ecfa3802a200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/XLM-EUR/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAzXMOw7CMBRE0b1M/WKNX/xfBxUNCiSFBQiUBAoQe0cWYbq5xXljnYdxOtQRxVpq
+        DCq4z/U0oYCGQR0zBEt9teKoHoK1XttTKjuGzvodWWwumkzM0Wm/h+DYzM1IPQTDcv4HHy0Ez9vl
+        8YNypkvJcBs+XyGiVV2YAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a38283e1d2fca5f-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:01 GMT
+      Etag:
+      - W/"98-c+XHR2lzm7phbd0QhBAB+s4Xr38"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d59c3bc2a9248814be98346ac17caec0c1592180761; expires=Wed, 15-Jul-20
+        00:26:01 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f77ad00000ca5f3029d200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/BTC-EUR/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA1XNOw7CMBRE0b1M7Vjj5w/PXgcVDQokhQURKB8KEHtHViraK82ZD9a5H8ZzHVDk
+        ELOEIAbPuV5HFKinWPEwWOq7BVo6FyWog8Fap9aEwo6pc/FIFkmFtJE+aT7B4NLkHWIb9cvtD349
+        7tu0f6nNIUvwVHx/IYCJk5gAAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a38283f0b833fc9-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:01 GMT
+      Etag:
+      - W/"98-wcZtkl9pNyf9OmpLYgv3RSQ1b1I"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d6a891b4d0a2a95c20125139e099b8f731592180761; expires=Wed, 15-Jul-20
+        00:26:01 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f77b6800003fc95aa32200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/ETC-EUR/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAy3MOw7CMBBF0b28emKNxzP+rYOKBgWSwgIESgIFiL0jI8p7i/PGtozTfGgTalZR
+        VsJ9aacZFeYsZxDW9uoZHHMoXFIAYWvX/oSFB46Dtx1zlVDVnASxrHsQjl3tTFEQxvX8rwjC83Z5
+        /AgvMSXH0adk2fD5Am2g7wySAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - EXPIRED
+      CF-RAY:
+      - 5a382842ce14ca47-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:02 GMT
+      Etag:
+      - W/"92-TrJwtR8S4ujU8ImiHXkMEky8MC0"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d1404eb85b5c1f308167c6750875c86401592180762; expires=Wed, 15-Jul-20
+        00:26:02 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f77dbf0000ca47a1381200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/ETH-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA03MMQ7CMAxG4bv8cxrZTpzEOQcTCyq0QwQI1BYGEHdHLQvjk56+N5apH8ZDG1DV
+        JJnF7HCf2mlEhQT2keEwt9fa5Jk0lGIZDku7bg8JdZQ61h1RFa2avaUQS97D4bjCPwcO/Xz+V5+3
+        y2MzOBRK4ouYcqKEzxew9nRelwAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a382843bebeca57-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:02 GMT
+      Etag:
+      - W/"97-EX6quUtUJulZfBLr3XwyVX8lhL8"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=dd53604c90f6d9ff70e09721446b825511592180762; expires=Wed, 15-Jul-20
+        00:26:02 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f77e4e0000ca5723a3f200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/BAT-USDC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAz3MMQ7CMBSD4bt4TiPXL0nVnIOJBRXaIQIEagsDiLujAMLTLw/fE+s8jNOujMiW
+        zAKTw3UuhwkZ9JKMgsNSHvXpezis5VxbFBumpo0bMitmmhcjg7Zw2FfxK6jt4DAsxz8ZEhzul9Pt
+        A1mXZCbP3/B6A7c9O0aWAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a3828448fb1ecea-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:02 GMT
+      Etag:
+      - W/"96-2g6UDO9ZI8n+m9wr7BcXatkMPYs"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d9d28e599859bf359dd45a839987eeb561592180762; expires=Wed, 15-Jul-20
+        00:26:02 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f77ed70000eceaefaf9200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/ETH-DAI/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAy3MMQ7CMBBE0btM7VjjddisfQ4qGhRICgsQKAkUIO6ObFF+6et9sC3jNB/LhBzN
+        BokOj6WcZ2SImE8RDmt51w70IUiAw1ZubaCwo3ZhtyezhMzkte816QEOp2o2ZKjIuF7+aQqH1/36
+        bIiaiReakiS+Py+V85WRAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a38284b1fdeca57-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:03 GMT
+      Etag:
+      - W/"91-Vzkkc4+w14+TViYKUl/BWK/6zpo"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=da5803534aa6b7cdf56b1fc2fa903b5391592180763; expires=Wed, 15-Jul-20
+        00:26:03 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f782ea0000ca57fba01200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/EOS-EUR/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAy2MOw6DMBAF7/LqxVrvGoN9jlQ0EQEKi0SJ+KQgyt0jO7xu9DTzwbb043RNI6Jj
+        EXGE15KGCRFipPEgrOnIqGoybelRThau2Fe2vjBHsdGJUVuHDoRbrhXdgdCv80ktCO/nfS8BbYMP
+        Rvk/fH9mWmpKigAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a38284bccdcecfa-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:03 GMT
+      Etag:
+      - W/"8a-3ZKStzGW6WybgOjPTpBZ3kmoljM"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d9c719dde035dd19c7331a8afae337d8c1592180763; expires=Wed, 15-Jul-20
+        00:26:03 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7835c0000ecfa7197b200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/ETC-GBP/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyXMMQ7CMAxG4bv8sxs5cRI7OQcTCyq0QwQI1BYGEHdHbcf3hu+LZeqH8dQGVDFm
+        L4Tn1C4jKpJjMRDm9lkzsCuarUT2ICztvs/AHefOpwNzDVKjOo2WSjiCcF7ZzQGhn697xADC+3F7
+        bUJUYZfU1FsW/P6tM6qDkQAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a38284caf77ecfa-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:03 GMT
+      Etag:
+      - W/"91-BwEI5xL0BGqR6IX3mFeh05svJ0A"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d9c719dde035dd19c7331a8afae337d8c1592180763; expires=Wed, 15-Jul-20
+        00:26:03 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f783ed0000ecfa27122200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/LTC-EUR/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA03MMQ7CMBBE0btMvbF2F9tr+xxUNFEgKSxAoCRQgLh75FR084t5X6zzME59HVGi
+        hOBNCc+5XiYUHJLLBsJSPy0FhLXe21RW7jh2Eo7MRWNhdjl7y/4Ewrlp+zuAMCzXP+v9uL12wjSp
+        M9Hokxh+G0EwlDiJAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a38284f5dfc3f99-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:04 GMT
+      Etag:
+      - W/"89-cgTZrLHwEB6huSoR3+jCUedMgmo"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d335600530abc553dca95ad2c54c493541592180764; expires=Wed, 15-Jul-20
+        00:26:04 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7859500003f99bf931200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/DNT-USDC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA03MMQ7CMBBE0btMvbHGK9vx+hxUNCiQFBYgUBIoQNwdGSHBVKNfvCfWeRinXR1R
+        NFnOJrjO9TChgI7sY8gQLPXRiodgred2lcqOqfNxQxYNxQfXq5rqFoJ98/6BYTn+gkFwv5xuHyjm
+        zKTm+B1eb9m/JwqUAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a3828514c71ecf2-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:04 GMT
+      Etag:
+      - W/"94-x0xiM2Qh1fCyXreD5E8PglvlgRk"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=de4b01438f9601f8bfe1868a7de05877d1592180764; expires=Wed, 15-Jul-20
+        00:26:04 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f786cc0000ecf2f6861200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/ETH-USDC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAzXMuw6CQBBG4Xf562EzM8teZp/DysaAUGzUaAAtNL67AUN5cpLvg2XqhvFUB5TM
+        ZuoJj6meRxSoF9cKCHN9r83OgmUQlnrbPis3HBsJB+aioQTvkmYWO4LQr+TfaEHo5sueAYTX/frc
+        EB8lmlP1KWZJ+P4AesEFypEAAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a382852e825ca6f-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:04 GMT
+      Etag:
+      - W/"91-BfCOcDGMYhkrAH2Oh4qA79PUwUI"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d665c77a2e7ac35957249ff36594fd6201592180764; expires=Wed, 15-Jul-20
+        00:26:04 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f787d20000ca6fd18c4200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/ZRX-EUR/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAz3MMQ7CMAwF0Lv8OY1sJ7ZLzsHEggrtEAECtYUBxN1ROrC+4X2wzsM4HeuI0msy
+        54DHXM8TCigmNndGwFLfTRKnFD1nMwSs9dZMSKgj61j3REW0aB/NxJQPCDi1eJt0J20alsu/NkHA
+        6359bhGz9NlTdMvZiAjfH+nF67ydAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - EXPIRED
+      CF-RAY:
+      - 5a382856ecf5ecf6-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:05 GMT
+      Etag:
+      - W/"9d-rmI6vYNq5IwOOdMa7xMnwu6p8/0"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d045408688b9f7cbb1e5f09558cd8b4d31592180765; expires=Wed, 15-Jul-20
+        00:26:05 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f78a4d0000ecf606800200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/XLM-BTC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA1WMuw6CQBRE/2XqC5l79wHsd1jZGBCKjRoNoIXGfzcbGpluzknOB+vcj9Mpj0hq
+        Xi1Q8JjzeUICa5Y1wUGw5HdhqgbBmm/lGI0VY6XhQCaLia72jk1sjxAMJbqP9MvlH3kIXvfrc4uF
+        rmujbY4kvj/ey2STnQAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a382859bc4fecf6-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:05 GMT
+      Etag:
+      - W/"9d-Xi66g3UMdPnYG/TUku6XIm2QaHY"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d045408688b9f7cbb1e5f09558cd8b4d31592180765; expires=Wed, 15-Jul-20
+        00:26:05 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f78c140000ecf610a3d200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/MANA-USDC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA1XMOw7CMBCE4btMvbHGm7UdfA4qGhRICgsQKA8KEHdHsWiY6tcU3xvL1A/jsQzI
+        PrWdquAxlfOIDDqa+tBBMJfX9igES7nVpLJhbHzYk1kta3K0ENp0gOC0eRXwFg2Cfr78i8/7da1Q
+        pHEXHX/D5wv66R0ykwAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a38285b9e6eecea-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:06 GMT
+      Etag:
+      - W/"93-/o3urOgogieMOwoxOKZXlbTCX7c"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d07f08244a93037f2b6ba6912f093960e1592180766; expires=Wed, 15-Jul-20
+        00:26:06 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f78d3a0000ecea3122a200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/DASH-BTC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA13MMQ7CMBBE0btMvbHWk7Vj+xxUNCiQFBYgUBIoQNwdBaWi/L94byxTP4yHOqAw
+        JG9ecJ/qaUSBOtWuiwyEYK6v7fkEwVKva1KpjcbGh51qoRUm10ZrU95DcFzVjTGlQdDP53/5ebs8
+        fphlOgaaz6r4fAE015VymgAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a38285e5c28ecea-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:06 GMT
+      Etag:
+      - W/"9a-LsxqJNKOdZaddlQra4/M7qKV7iA"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d07f08244a93037f2b6ba6912f093960e1592180766; expires=Wed, 15-Jul-20
+        00:26:06 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f78ef90000ecead926c200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/MKR-BTC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAzXMOw7CMBBF0b28emI9Tzw29jqoaFAgKSxAoHwoQOwdRYHy3uK8MY9dPxxrj6Jp
+        F4PgMdbzgAI6WtAWgqm+foNthmCut7WVyoax8bYni4Zi5jQn9XaA4LSSG+ITBN10+Xc0CJ7367Ix
+        iXSq2cdE4vMF/aMFvpIAAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a3828606c8cca4b-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:06 GMT
+      Etag:
+      - W/"92-IxQeBbvNBV3eHGcz8fyZzpvD6kU"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=df91fa92ce4e72c470c432ccd9523e4d51592180766; expires=Wed, 15-Jul-20
+        00:26:06 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f790410000ca4b42375200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/LTC-BTC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA0XMPQ7CMAwG0Lt8sxs5jpPUOQcTCyq0QwQI1B8GEHdHQUKsb3gvrPMwToc6omSW
+        nHMi3Od6mlDAjlmTBRCW+mwSnXISn4KBsNZrM2HhjlPn4465iC+qjsVC7/cgHNv8mwSEYTn/IYLw
+        uF22b6QWojMzr33MeH8A5m4C9JsAAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a382861bff63fd5-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:07 GMT
+      Etag:
+      - W/"9b-4E6QElAZ/zvOa467ly9bdERnlCg"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d7ebbd50009a5c1700e577b7c1d22181a1592180767; expires=Wed, 15-Jul-20
+        00:26:07 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7910f00003fd515278200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/ALGO-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAzXMOw7CMBCE4btMvbHGSzYOPkcqGhSSFFZAoLwKEHdHDjDdV8z/wjK1/XBOPWKt
+        R/NB8JhSNyCCTg8QzOmZpbRgECzp9qWyYFV4a8ioFrV29FXQEwSXnNv/9BC08/hnDm7367o3SrVg
+        Vjr+hvcHSxlD348AAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a3828652a74ca47-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:07 GMT
+      Etag:
+      - W/"8f-ZJwKbhxqGfoxfiQ4yLe0bpdHfWA"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=deac8e4ebac4e27d8f2025d124f018d711592180767; expires=Wed, 15-Jul-20
+        00:26:07 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f793390000ca479f11d200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/BCH-BTC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAz3MOw7CMBBF0b28emKNx9/xOqjSoEBSWIBASaAgYu/IgCjPLe6GdR7GaV9HFMmq
+        qpFwm+txQgEbluASCEt9fkPSxrVeGoWFO46dDTvmIqGIN1ZTzD0Ih7b8LSIIw3L6O4PwuJ7vn4t1
+        4k3yIi5zwusNPmBaeZIAAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a3828677970ecee-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:07 GMT
+      Etag:
+      - W/"92-GaP+JhcAoUFgSTlVnJSLX4yBWgQ"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d968b30395c90aac1f00a3abd7fce51c41592180767; expires=Wed, 15-Jul-20
+        00:26:07 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f794ab0000ecee980b7200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/REP-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAy3MPQ7CMAwG0Lt8sxvZaez8nIOJBbW0QwQI1BYGEHdHQR3f8j7YlmGaT3VCySFa
+        VsJjqecZBaKuTyCs9d0YXbIsIGz11uzZc8fWiR6Yi7fC6nzWqHYEYWxjK0IAYVgvuxSE1/36/BcS
+        jFPvTIKqZ8b3B5UTUuSPAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a38286a1c6cca63-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:08 GMT
+      Etag:
+      - W/"8f-FuydFKERfqm6fOKg2VV30e0Wonk"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d2baa514eb7eeb161ac2bbf7f2bd1447d1592180768; expires=Wed, 15-Jul-20
+        00:26:08 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7964c0000ca636e024200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/OMG-GBP/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAy3MOw7CMBBF0b282rHeTMYDeB1UNCiQFBYgUD4UIPaOHLjdbc4b89j1w7H0yN6S
+        24DHWM4DMiSq0REwlVd9c8aEgLnc6iqVDb2RtCezeLZNFBXz9oCAUwVXQhHQTZf/WQWf9+uyGuKS
+        NMUdf+HzBWqd35iPAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - EXPIRED
+      CF-RAY:
+      - 5a38286b4c9b3fb7-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:08 GMT
+      Etag:
+      - W/"8f-HzYEce/pYtBe9dOtFPqCKBSy1B0"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=da17a09734754a38c8b212dab2d35d69e1592180768; expires=Wed, 15-Jul-20
+        00:26:08 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7971000003fb7381f8200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/OXT-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA0WMuw6CUBBE/2Xq5WZY2fv6DisbgkJxo0YDaKHx3wlo4lRzinPemMeuH9rSIyvN
+        q6ngPpbTgAy6OqQEwVReK2sDwVyu26eyoq9q25NZfaZ3ITUW0gGC49r7+910/mKE4Hm7PLaE7WKM
+        wRx/w2cBLTUuq44AAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a38286cdba9ecfe-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:08 GMT
+      Etag:
+      - W/"8e-rS6ae2JsnZYuj78ZpW92gibjmjc"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=dff2e9573a7dbc5a83adbc4dd58ca33141592180768; expires=Wed, 15-Jul-20
+        00:26:08 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f798080000ecfea21c7200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/XRP-BTC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA13MvQ7CMBAD4HfxfK18aS4leQ6mLqjQDhEgUH8Yinh3FBiQ8GZb+p5Ypn4YD3lA
+        0mjBmp3gPuXTiATWJOnYOAjmvJVNNUKw5Gspjo4VQ6W2J5OzZKFulUHbDoJjQX+IQtDP53/3cbus
+        H0yj996+XwlebybMhnWdAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a38286e0accca53-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:09 GMT
+      Etag:
+      - W/"9d-ZAzlI99SkmCGED14XGA++RQ2sRg"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d8853be0a9d11ff14706ae1b5f1395d961592180768; expires=Wed, 15-Jul-20
+        00:26:08 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f798c80000ca539fa9b200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/XRP-EUR/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA03MOw7CQAxF0b282hnZZj7OrIMqDQokxQgQKB+KIPaOBii43W3OE8vUD+OhDMgS
+        vLbeE+5TOY3IYCfRDIS5bPVFdiAs5VpHWbnh2EjYM2cNOSSnXqy1DoRjBb9AAqGfz//e43ZZP4io
+        JZXo+Bdeb9UuPQORAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a3828717dc03fab-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:09 GMT
+      Etag:
+      - W/"91-P4CwtSTArQd40FTD9Q8U+XoI/gg"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d07a4fe5228114e0aa40ece052dd6c69a1592180769; expires=Wed, 15-Jul-20
+        00:26:09 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f79aed00003fab01ae2200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/LTC-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA03MOw7CMBBF0b282rFmxp6x43VQ0aBAUliAQPlQgNg7cirKe4vzwToP43SqI0rU
+        wKbZHJ5zvUwoiMFngcNS3y2ZPecYJKYeDmu9tykk1JF1rAeiIlo0erKkvR3hcG7w7jAchuX6p74e
+        t20nzFISnzhFJTF8f6IeW2OVAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      Age:
+      - '1'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a3828738ccdecee-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:09 GMT
+      Etag:
+      - W/"95-80ZJfSWdRnw4rV4P/fDyNYKSnXo"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=ddd08940258648095b80e7e4912c2e1d01592180769; expires=Wed, 15-Jul-20
+        00:26:09 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f79c380000ecee923f1200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/LOOM-USDC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA1XMsQ6CQBCE4XeZ+rjMLrfA3XNY2RAUiosaDaCFhnc3pzZO9WeK74V1HsapzyOS
+        dCahcbjN+TghgZ7KEDs4LPlZnhoOa76UVCorNpXYjkxqScSHQI22h8OheF+ArcBhWE7/4uN6vn8g
+        sVi3pp6/YXsDYeMCH5QAAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a3828747cc5ecfe-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:10 GMT
+      Etag:
+      - W/"94-T71w39H2i+7Ap2hBehsQEvvrTpw"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d201b0ee586914ed256d44417319e6d691592180770; expires=Wed, 15-Jul-20
+        00:26:10 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f79ccc0000ecfea63d0200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/XTZ-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA03MOw7CMBCE4btMvbHWu/HG8TlS0aBAUliAEuVVgLg7iium+zXS98G29MN4zQOS
+        amhUhDAv+T4iQVyIpiCs+X22d1aDsOVXeVm4Yqt86JiTWOLGsVktegHhdopFUA9Cvz7+wWN67gVp
+        haO0LgYuw/cHvPFhQZEAAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a3828779857ecf6-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:10 GMT
+      Etag:
+      - W/"91-hKVXH/Ugod+Q9HAh3CziqQ69GK4"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=dbdc7dc488b2407872c50033a2df5c2551592180770; expires=Wed, 15-Jul-20
+        00:26:10 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f79ec10000ecf6049b0200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/XLM-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAz3MOw7CMBRE0b1M7Vjj52c78TqoaFAgKSxAoHwoQOwdmSCmu1OcF5apH8ZDGZA1
+        qjAkg/tUTiMyaJno6WAwl2d9RGss5foNChvGxoUdmSVkjZap89ruYXCs5EZIG2HQz+e/qQEGj9tl
+        3aAknRPxlr/h/QGl8Y9tmAAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a382878cabaca6f-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:10 GMT
+      Etag:
+      - W/"98-2YErG/x68QU5UaIL0YS2U414+Gk"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d09cb40956346c98e44b6655343228c071592180770; expires=Wed, 15-Jul-20
+        00:26:10 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f79f7c0000ca6fce29b200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/KNC-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAyWMuw7CMBAE/2Xri7V3dmzi76CiQYGksACB8qAA8e8o8VY7xcwXy9QP47kMyKqq
+        B6rgNZXriAx1xk4hmMtnY4sQLOWxfxobxkbbI5ktZnbOghr9CYLL1qu+QdDPt4pqAYL3877ukeQZ
+        fJtcYh1+f5tgliKQAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - EXPIRED
+      CF-RAY:
+      - 5a382879dce2ecf6-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:10 GMT
+      Etag:
+      - W/"90-Y7r/hfURWC1w+VwA9RCRFHgLkTk"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=dbdc7dc488b2407872c50033a2df5c2551592180770; expires=Wed, 15-Jul-20
+        00:26:10 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7a02a0000ecf603118200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/CVC-USDC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA1XMOw7CMBRE0b1M7Vjznu3YeB1UaVAgKSxAoHwogtg7MkrDVFdTnDeWqR/GUxmQ
+        RaOTZPCcymVEBi2dMAgM5rLVp+ZS7jWVyoZtI+FIZg1Z1HofU5s6GJyrtwOMMOjn67/4etzWHyQS
+        1fmD5T58vpnqv26UAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a38287e2bcdecfe-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:11 GMT
+      Etag:
+      - W/"94-rzmWWTstvVG1Wmp0P6uCOzKLyss"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d786afce962dcbde5fce4e482e76cc5a91592180771; expires=Wed, 15-Jul-20
+        00:26:11 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7a2dc0000ecfe97219200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/BCH-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA0XMQQrCMBBG4bv86zTMTCaTNOdw5Uaq7SKoKG11oXh3SUFcPnh8b6zzME6HOqKw
+        qamKONzneppQIMF8jnBY6qs1+SCBc049HNZ63R4S6sg6jjuiIrHE7DklNd3D4djgvzMs51824nm7
+        PDaEmdk890G014zPF4B20LaXAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a38287f8a61ecfa-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:11 GMT
+      Etag:
+      - W/"97-XP9GLJ0yFeP2wdx75M2PmNu6KvI"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d9dfbcbad58a96999551e51fa63a572051592180771; expires=Wed, 15-Jul-20
+        00:26:11 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7a3b30000ecfa54bf2200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/ZRX-BTC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA03MOw7CMBQEwLts7Vj7nr/xOahoUCApLECgfChA3B2ZBtop5oV1HsbpUEcUUZ9j
+        VIP7XE8TCmhJ0mURGCz12Swx2BgYEgzWem2kVHaMnYQdWdSXEG1iEO/2MDi2+lcpDIbl/E8RBo/b
+        ZftmonR9n6x65zNJvD+vMiMZowAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a382880df99ca63-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:12 GMT
+      Etag:
+      - W/"a3-y4FusiP+NGdpvkuCX4zIw6Bg9Ak"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d7ada0b537be6f0b74d8ca9c91bfd02121592180771; expires=Wed, 15-Jul-20
+        00:26:11 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7a4880000ca634038b200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/XRP-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA02MOw6DMBAF7/JqYy3rtbF9DioaBIHCCigRnxRB3D2ySMGr5hUzB7alG8Y2DYih
+        sk5YFN5LeoyIIF364KGwpm/+UkFhS3NmJqaCXFHamiiyiyRaghdvGij0uXf52enW5z33eU37FTEs
+        Rixr+g/nD9o8LP2RAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a382884591eece6-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:12 GMT
+      Etag:
+      - W/"91-7fyXYp9suc85VTfjEfQtlICbX0w"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d7df276fb267224fca116ad8d92f445271592180772; expires=Wed, 15-Jul-20
+        00:26:12 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7a6b80000ece606121200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/KNC-BTC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA03MOw7CMBRE0b1M7Vjj9/B3HVQ0KJAUFiBQPhQg9o4MEmK6ucV5Ypn6YdzXAUU1
+        xeANblM9jiigJekkOw+DuT5ac2ITDJZ6aU8o7Bg657dkEV9UbdoEDbqDwaGhP0UVBv18+kuxUffr
+        ef1gLjJrzDbxO7zeEwfDZp0AAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - EXPIRED
+      CF-RAY:
+      - 5a3828858f1becee-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:12 GMT
+      Etag:
+      - W/"9d-5DvWY6eZN1WJDTMGYhw1ev1JZIc"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=dda636c1ff3e6636d7861a37afad4a7171592180772; expires=Wed, 15-Jul-20
+        00:26:12 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7a7780000ecee8d39b200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/ATOM-BTC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA1XMOw7CMBCE4btMvbHGi9eJfQ4qGhRICgsQKA8KEHdHBlEw3T/F98Qy9cO4LwOy
+        t9aogttUjiMy6EhqMgjm8qhPDK6DYCmXWkplw9h425JZLfvkdBOS30FwqOKPCBD08+nfvF/P68eJ
+        Zl3rlN/h9QZ6kG2plAAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a382887c892ca57-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:13 GMT
+      Etag:
+      - W/"94-gmKX5jhVYaZ6HBbZWC28RQ7MiCk"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=dad920d6e0765a7f83e848863855d5ba61592180773; expires=Wed, 15-Jul-20
+        00:26:13 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7a8dd0000ca5745ba4200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/ETH-BTC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA03MOw7CMBBF0b282rFmxvZk7HVQ0aBAUliAQPlQgNg7MgWivLc4L6zzME6HOqJk
+        tWSmDve5niYUkCeJxnBY6rON4CVEOKz12lJIqCPtOO2Iimhh8WySuN/D4djMP2NYzr8WODxul+3L
+        ZGXyfQ45pZjx/gDX4VSakwAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      Age:
+      - '1'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a38288a9a53ca4b-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:13 GMT
+      Etag:
+      - W/"93-G1x47BNbSfb62bV7xUil3MTaOl4"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d46430d721313050400dcc124a05e60cf1592180773; expires=Wed, 15-Jul-20
+        00:26:13 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7aaa00000ca4b463be200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/ZEC-BTC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA0XMOw7CMBBF0b282rGex+Mh8TqoaFAgKSxAoHwoQOwdWUSivLc4byxTP4zHMiBH
+        FTM6PKZyHpFBTyZVg8NcXtvRpHBYyq22UNjQmpD2ZBbNUTxNTdsDHE4V3ZTYwaGfL3+2Ms/7df1B
+        IQTfcteRJD5fFY0uaJYAAAA=
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a38288bc9223fb1-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:13 GMT
+      Etag:
+      - W/"96-tIGtwNSIQv9L0jJcoZrl4f7waVo"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=dd24550e588242850c8ad91226f4801931592180773; expires=Wed, 15-Jul-20
+        00:26:13 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7ab5d00003fb1cebdf200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/OMG-BTC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA13MMQ7CMBBE0btM7VizXrJxfA4qGhRICgsQKAkUIO6OloKC6f4U74V1HsZpX0cU
+        0ayaA25zPU4oYCQpZi0Clvr0S0giYK0Xr8TEhtZIuyWLpMIUs8km6w4BBzd/iLoyLKc/93E937+W
+        dJ32fTTL9OH9AU3l6fqaAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a38288d0e3aca57-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:13 GMT
+      Etag:
+      - W/"9a-2S1Ep3V9lbZjlKZvrv258ppwMag"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=dad920d6e0765a7f83e848863855d5ba61592180773; expires=Wed, 15-Jul-20
+        00:26:13 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7ac290000ca57e899f200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/OMG-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA0XMOw7CMBBF0b282rHeTDw2eB1UaVAgKSxAoHwogtg7SkDidqe5L0xD2/XH0iEH
+        UzI5PIZy7pEh3ox7OIxl2Uz6Gg5Tua1UKivGSuxAZrWs5m2XkoYGDqf1+F+04+VHiXB43q/zNhGJ
+        GjX4mt/w/gBnH/5qkgAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a382893393eca53-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:14 GMT
+      Etag:
+      - W/"92-+tP26gDJqOS7Bpu9NJb5mhxkxVc"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d070c6a2377f7a2a04c3750c44e1677dd1592180774; expires=Wed, 15-Jul-20
+        00:26:14 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7b0040000ca53a9002200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/LINK-USD/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAy3MvQoCMRAE4HeZOhd2N8mS5DmsbOT0rggqyv1YKL67bHC6GZjvg20Zp/nUJtQo
+        SVJhh+fSLjMqgi8cgsBhbW8bWLKnDIet3a0LCQ2kA6cDURWtzD5kEs1HOJwN7YhkO43r9d81Gvp6
+        3PbOcCSSFLwW6sH3B6CaoQ2XAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a382894df1aece6-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:15 GMT
+      Etag:
+      - W/"97-YYRMj1Sc0INQJqP/zHJFEPdIYpw"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d6fa83c2bac9a683bb818a6bd94279e931592180775; expires=Wed, 15-Jul-20
+        00:26:15 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7b10b0000ece61ba15200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/BTC-GBP/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAAy3MMQ7CMAxG4bv8sxvZjhuHnIOJBRXaIQIEagsDiLujAON7w/fCOg/jtK8jyiZm
+        T2aE21yPEwrcPIboICz12QYHZlEWURDWemlPWbnj1Em/ZS7aF8tBLZvuQDg09+9kEIbl9GsP0UB4
+        XM/3r2I5BU0qvbrg/QFRfXq/lgAAAA==
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-RAY:
+      - 5a3828972ebc3f87-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:15 GMT
+      Etag:
+      - W/"96-uuAOjYmCAeAm2zGvO/2wFfFKxmc"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d3e294ad3912a7362265119694f94d54d1592180775; expires=Wed, 15-Jul-20
+        00:26:15 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7b27700003f87a402b200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products/EOS-BTC/ticker
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA03MMQ7CMBBE0btMvbHGjtcLPgcVDQokhQUIlAQKEHdHhiKZbn7x3pjHrh8OpUdW
+        1WQU3MdyGpBBRzJYhGAqr1q8ayGYy7WewMCGqfG6I3OIWel0k6y1PQTHKq6JbjovQSF43i6PH5S2
+        Fuk8/8PnC10U8SmUAAAA
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a3828997a88ecf2-YUL
+      Cache-Control:
+      - public, max-age=1, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:15 GMT
+      Etag:
+      - W/"94-Io1achPSQA2dMTsucA2Ev/LQr0A"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=df66a44b7eadde41d10f0cc15cfeb605e1592180775; expires=Wed, 15-Jul-20
+        00:26:15 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7b3ed0000ecf2f411c200000001
+    status:
+      code: 200
+      message: OK
+version: 1

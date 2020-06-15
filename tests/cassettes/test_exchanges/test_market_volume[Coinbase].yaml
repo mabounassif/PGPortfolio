@@ -1,0 +1,102 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products
+  response:
+    body:
+      string: !!binary |
+        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
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a38280c1c1aecfe-YUL
+      Cache-Control:
+      - public, max-age=5, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:25:53 GMT
+      Etag:
+      - W/"66f1-padK5UB6ObQl8MOWbfnguaGoArM"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d211665dff4b2870ff38e39503eedc87d1592180753; expires=Wed, 15-Jul-20
+        00:25:53 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f75b910000ecfe9f87d200000001
+    status:
+      code: 200
+      message: OK
+version: 1

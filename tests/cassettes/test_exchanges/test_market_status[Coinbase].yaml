@@ -1,0 +1,210 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/products
+  response:
+    body:
+      string: !!binary |
+        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
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      Age:
+      - '4'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a3828a6ec60ca47-YUL
+      Cache-Control:
+      - public, max-age=5, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:18 GMT
+      Etag:
+      - W/"66f1-OxwLivIPYFozwSUzZIZgcK6YFnw"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=da45a5ac1f0c24642ad53b453336dff8d1592180778; expires=Wed, 15-Jul-20
+        00:26:18 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7bc4d0000ca47a5930200000001
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - python-requests/2.23.0
+    method: GET
+    uri: https://api.pro.coinbase.com/currencies
+  response:
+    body:
+      string: !!binary |
+        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
+    headers:
+      Access-Control-Allow-Headers:
+      - Content-Type, Accept, cb-session, cb-fp, cb-form-factor
+      Access-Control-Allow-Methods:
+      - GET,POST,DELETE,PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - cb-before, cb-after, cb-gdpr
+      Access-Control-Max-Age:
+      - '7200'
+      Age:
+      - '16'
+      CF-Cache-Status:
+      - HIT
+      CF-RAY:
+      - 5a3828a81d48ca57-YUL
+      Cache-Control:
+      - public, max-age=30, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Type:
+      - application/json; charset=utf-8
+      Date:
+      - Mon, 15 Jun 2020 00:26:18 GMT
+      Etag:
+      - W/"2e85-rBBadtZISY7uWJgldI0RlraW9aI"
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d176c4969b9011b0593a4c1be10525e6f1592180778; expires=Wed, 15-Jul-20
+        00:26:18 GMT; path=/; domain=.pro.coinbase.com; HttpOnly; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Dns-Prefetch-Control:
+      - 'off'
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Xss-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 0356f7bd0b0000ca57ff973200000001
+    status:
+      code: 200
+      message: OK
+version: 1
